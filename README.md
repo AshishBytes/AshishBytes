@@ -30,7 +30,6 @@
     
     
 ## 🔗 Contact
-    
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/Ashu7131)
 [![discord](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/175010396384657408)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ashishlodhi837)
@@ -38,25 +37,12 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/itz_ash_u?t=AuUCwyT_PRh5BMIV1Ssn0A&s=08)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/itzz_ash_u)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/itz_ashu59?share_id=mkKck5WkB9A&locale=en-US)
-
-    
-## 🖥️ Status
-![Discord](https://discord.c99.nl/widget/theme-3/175010396384657408.png)
     
 ## 📈 Stats
-    
-<div align="left">
-    <img height="130em" src="https://github-profile-trophy.vercel.app/?username=Ashu7131&theme=juicyfresh&&title=Stars,Commit,Repo,Join&no-frame=true"/>
-<br />
-<br />
-</div>
-<p align="left">
-    <a href="https://git.io/streak-stats">
-        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashu7131&theme=tokyonight"/>
-    </a>
-</p>
-<p align="left"> 
-<a href="https://github.com/drix10">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashu7131&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashu7131&show_icons=true&theme=blueberry)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashu7131&theme=blueberry&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu7131&theme=blueberry&layout=compact)](https://github.com/Ashu7131/HAPPY-bot)
+
+## 🖥️ Status
+[![Discord Presence](https://lanyard.cnrad.dev/api/175010396384657408)](https://discord.com/users/175010396384657408)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3123hqklcwklqxqqqcu7lx5mxmua&count=3)
