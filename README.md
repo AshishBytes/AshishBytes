@@ -39,7 +39,7 @@
 [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/itz_ashu59?share_id=mkKck5WkB9A&locale=en-US)
     
 ## 📈 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashu7131&show_icons=true&theme=blueberry)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashu7131&show_icons=true&theme=blueberry&hide=contribs&show_icons=true&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashu7131&theme=blueberry&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu7131&theme=blueberry&layout=compact)](https://github.com/Ashu7131/HAPPY-bot)
 
