@@ -1,7 +1,7 @@
 ---
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px">Welcome to my Profile bro !<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="15px">
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Ashu7131&color=brightgreen" alt="watching_count">
+<img src="https://komarev.com/ghpvc/?username=AshishBytes&color=brightgreen" alt="watching_count">
 <img src="https://img.shields.io/badge/Age-18-blue" />
 <img src="https://img.shields.io/badge/Languages-Hindi%20%26%20English-brightgreen" />
 <img src="https://img.shields.io/badge/Lives-India-success" />
@@ -40,9 +40,9 @@
 [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/itz_ashu59?share_id=mkKck5WkB9A&locale=en-US)
     
 ## 📈 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashu7131&show_icons=true&theme=blueberry&hide=contribs&show_icons=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashu7131&theme=blueberry&date_format=j%20M%5B%20Y%5D)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu7131&theme=blueberry&layout=compact)](https://github.com/Ashu7131/HAPPY-bot)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshishBytes&show_icons=true&theme=blueberry&hide=contribs&show_icons=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshishBytes&theme=blueberry&date_format=j%20M%5B%20Y%5D)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishBytes&theme=blueberry&layout=compact)](https://github.com/AshishBytes/HAPPY-bot)
 
 ## 🖥️ Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/175010396384657408)](https://discord.com/users/175010396384657408)
