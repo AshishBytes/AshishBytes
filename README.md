@@ -7,11 +7,10 @@
 <img src="https://img.shields.io/badge/Lives-India-success" />
     
 ## 🚀 About Me
-🎓 I am Ashish Singh, a **Front End Developer** (specializing in **JavaScript Applications**)
+👋 Hey! I'm [Ashish Singh](www.linkedin.com/in/ashishbytes), a 2nd-year B.Tech CSE student at [Amity University Gwalior](https://www.amity.edu/gwalior/) batch of (2022-2026). I began my journey exploring the Discord API, which led me to create innovative bots, some of which were verified by the official Discord developers team. I'm passionate about coding, especially Discord music bots, and I also enjoy crafting content on GitHub. Let's connect and collaborate!
 
-📚 I am currently pursuing for **B.Tech CSE** in [Amity](https://www.amity.edu/gwalior/) batch of (2022-2026)
+#TechEnthusiast #CodeComposer #AIMLExplorer #DiscordBotDev #ContentCreator 🚀🎵💬📚🌐
 
-⭐ I am an **Open Source Contributor** as well as a professional **Discord Bot Developer**
 ## 🏅 Achievements
 🏆 Developer of **ReeF Bot & Uchiha Discord Bot** Having more Than **1,000,000+** users
 
