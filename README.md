@@ -1,4 +1,3 @@
-[![Ashish Singh profile views](https://u8views.com/api/v1/github/profiles/75130408/views/day-week-month-total-count.svg)](https://u8views.com/github/AshishBytes)
 ---
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px">Welcome to my Profile bro !<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="15px">
 <p align="left"> 
