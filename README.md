@@ -65,13 +65,13 @@ object Ashish {
 ## 📈 GitHub Analytics
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishBytes&show_icons=true&theme=blueberry&hide=contribs&count_private=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AshishBytes&theme=blueberry&date_format=j%20M%5B%20Y%5D" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishBytes&show_icons=true&theme=blueberry&hide=contribs&count_private=true" height="100px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AshishBytes&theme=blueberry&date_format=j%20M%5B%20Y%5D" height="100px" />
 </div>
 
 <div align="center">
   <a href="https://github.com/AshishBytes/HAPPY-bot">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishBytes&theme=blueberry&layout=compact" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishBytes&theme=blueberry&layout=compact" height="100px" />
   </a>
 </div>
 
@@ -80,7 +80,7 @@ object Ashish {
   <a href="https://discord.com/users/175010396384657408">
     <img src="https://lanyard.cnrad.dev/api/175010396384657408" alt="Discord Presence" />
   </a>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=3123hqklcwklqxqqqcu7lx5mxmua&count=3" alt="Spotify" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=3123hqklcwklqxqqqcu7lx5mxmua&count=5" alt="Spotify" />
 </div>
 
 
