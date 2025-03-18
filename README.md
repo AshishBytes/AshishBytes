@@ -1,6 +1,6 @@
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=250&section=header&text=AshishBytes&fontSize=60&fontColor=fff&animation=scaleIn&fontAlignY=40&desc=Crafting%20Code%20That%20Matters&descSize=20&descAlignY=70" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=250&section=header&text=Ashish%20Singh&fontSize=60&fontColor=fff&fontAlignY=35&animation=tilt&desc=Full-Stack%20Developer&descAlignY=50" alt="Ashish Singh aka AshishBytes" />
 
   <div style="margin: 20px 0;">
     <a href="https://github.com/AshishBytes">
@@ -23,6 +23,12 @@
     <img src="https://img.shields.io/badge/🗣️%20Languages-Hindi%20%26%20English-4b6cb7" />
   </div>
 </div>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+innovative+solutions;Passionate+about+clean+code;Always+learning+new+technologies" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 🎯 About Me
 ```kotlin
