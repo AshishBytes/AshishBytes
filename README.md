@@ -65,7 +65,7 @@ object Ashish {
 ## 📈 GitHub Analytics
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishBytes&show_icons=true&theme=blueberry&hide=contribs&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishBytes&show_icons=true&theme=blueberry&hide=contribs&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AshishBytes&theme=blueberry&date_format=j%20M%5B%20Y%5D" />
 </div>
 
