@@ -10,7 +10,7 @@
 
   <!-- Additional Badges -->
   <img src="https://komarev.com/ghpvc/?username=AshishBytes&color=brightgreen" alt="watching_count">
-  <img src="https://img.shields.io/badge/Age-18-blue" />
+  <img src="https://img.shields.io/badge/Age-20-blue" />
   <img src="https://img.shields.io/badge/Languages-Hindi%20%26%20English-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
 </div>
