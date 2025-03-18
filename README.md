@@ -1,36 +1,49 @@
 ---
 <div align="center">
-  <!-- Header Section -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b3b4f,100:2d2d3a&height=250&section=header&text=AshishBytes&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40" alt="Header" />
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=250&section=header&text=AshishBytes&fontSize=60&fontColor=fff&animation=scaleIn&fontAlignY=40&desc=Crafting%20Code%20That%20Matters&descSize=20&descAlignY=70" alt="Header" />
 
-  [![GitHub Followers](https://img.shields.io/github/followers/AshishBytes?logo=github&style=social)](https://github.com/AshishBytes)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ashishbytes)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/AshishBytes?style=social)](https://x.com/AshishBytes)
-  [![Discord](https://img.shields.io/badge/Discord-__ashish-7289DA?logo=discord&logoColor=white?style=social)](https://discord.com/users/175010396384657408)
+  <!-- Social Badges with Consistent Styling -->
+  <div style="margin: 20px 0;">
+    <a href="https://github.com/AshishBytes">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&color=4b6cb7" />
+    </a>
+    <a href="https://www.linkedin.com/in/ashishbytes">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://x.com/AshishBytes">
+      <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
+    </a>
+    <a href="https://discord.com/users/175010396384657408">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" />
+    </a>
+  </div>
 
-  <!-- Additional Badges -->
-  <img src="https://komarev.com/ghpvc/?username=AshishBytes&color=brightgreen" alt="watching_count">
-  <img src="https://img.shields.io/badge/Age-20-blue" />
-  <img src="https://img.shields.io/badge/Languages-Hindi%20%26%20English-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-India-success" />
+  <!-- Profile Metrics -->
+  <div style="margin: 15px 0;">
+    <img src="https://komarev.com/ghpvc/?username=AshishBytes&color=4b6cb7&style=flat-square" alt="Profile Views">
+    <img src="https://img.shields.io/badge/🌍%20UTC%2B5:30-India-182848" />
+    <img src="https://img.shields.io/badge/🗣️%20Languages-Hindi%20%26%20English-4b6cb7" />
+  </div>
 </div>
 
-    
-## 🚀 About Me
+## 🎯 About Me
 ```kotlin
-object Ashish {
-    const val name = "Ashish Singh"
-    const val role = "Full Stack Developer"
-    const val passion = "Building scalable solutions and open-source contributions"
+object Ashish : Developer() {
+    override val name = "Ashish Singh"
+    override val stack = Stack.FULL_STACK
+    override val architecture = listOf(Architecture.CLOUD, Architecture.MICROSERVICES)
     
-    fun skills() = listOf(
-        "Backend Development", 
-        "Cloud Architecture",
-        "DevOps",
-        "UI/UX Design"
+    fun currentFocus() = setOf(
+        Tech.REACT,
+        Tech.AWS,
+        Tech.KUBERNETES
     )
+    
+    fun principle() = "Code is poetry, and I’m here to write the next masterpiece."
 }
 ```
+
 
 <!-- Skills Section -->
 ## 🛠️ Skills
