@@ -1,9 +1,8 @@
 ---
 <div align="center">
   <!-- Header Section -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b3b4f,100:2d2d3a&height=250&section=header&text=Ashish%20Singh&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b3b4f,100:2d2d3a&height=250&section=header&text=AshishBytes&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40" alt="Header" />
 
-  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=AshishBytes.AshishBytes)](https://github.com/AshishBytes)
   [![GitHub Followers](https://img.shields.io/github/followers/AshishBytes?logo=github&style=social)](https://github.com/AshishBytes)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ashishbytes)
   [![Twitter Follow](https://img.shields.io/twitter/follow/AshishBytes?style=social)](https://x.com/AshishBytes)
@@ -67,12 +66,12 @@ object Ashish {
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=AshishBytes&show_icons=true&theme=blueberry&hide=contribs&count_private=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AshishBytes&theme=blueberry&date_format=j%20M%5B%20Y%5D" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AshishBytes&theme=blueberry&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 <div align="center">
   <a href="https://github.com/AshishBytes/HAPPY-bot">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishBytes&theme=blueberry&layout=compact" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishBytes&theme=blueberry&layout=compact" />
   </a>
 </div>
 
