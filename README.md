@@ -142,7 +142,7 @@ Hello, I'm Ashish Singh – a passionate and versatile developer dedicated to tu
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=100&section=footer" />
 </div>
 
 <div align="center">
