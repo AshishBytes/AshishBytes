@@ -1,9 +1,7 @@
 ---
 <div align="center">
-  <!-- Animated Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=250&section=header&text=AshishBytes&fontSize=60&fontColor=fff&animation=scaleIn&fontAlignY=40&desc=Crafting%20Code%20That%20Matters&descSize=20&descAlignY=70" alt="Header" />
 
-  <!-- Social Badges with Consistent Styling -->
   <div style="margin: 20px 0;">
     <a href="https://github.com/AshishBytes">
       <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&color=4b6cb7" />
@@ -19,7 +17,6 @@
     </a>
   </div>
 
-  <!-- Profile Metrics -->
   <div style="margin: 15px 0;">
     <img src="https://komarev.com/ghpvc/?username=AshishBytes&color=4b6cb7&style=flat-square" alt="Profile Views">
     <img src="https://img.shields.io/badge/🌍%20UTC%2B5:30-India-182848" />
@@ -75,7 +72,6 @@ Hello, I'm Ashish Singh – a passionate and versatile developer dedicated to tu
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 
-<!-- Updated Tech Stack Section -->
 ## 🛠️ Tech Stack
 
 ### 🔮 Core Technologies
@@ -123,7 +119,6 @@ Hello, I'm Ashish Singh – a passionate and versatile developer dedicated to tu
 </div>
 
 
-<!-- Contact Section -->
 ## 📬 Let's Connect
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <a href="mailto:ashishlodhi5559@gmail.com">
@@ -140,7 +135,10 @@ Hello, I'm Ashish Singh – a passionate and versatile developer dedicated to tu
   </a>
 </div>
 
-<!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=150&section=footer&fontSize=20&fontColor=fff&animation=scaleIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
