@@ -45,11 +45,10 @@ object Ashish : Developer() {
 ```
 
 
-<!-- Skills Section -->
 ## 🛠️ Skills
 
-### Programming Languages
-<div>
+### 💻 Programming Languages
+<div align="center" style="margin: 10px 0;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -57,37 +56,61 @@ object Ashish : Developer() {
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 </div>
 
-### Web Development
-<div>
+### 🌐 Web Development
+<div align="center" style="margin: 10px 0;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 </div>
 
-### Tools and Platforms
-<div>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
+### 🔧 Tools & Platforms
+<div align="center" style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 
+<!-- Updated Tech Stack Section -->
+## 🛠️ Tech Stack
+
+### 🔮 Core Technologies
+<div align="center" style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
+</div>
+
+### ☁️ Cloud & DevOps
+<div align="center" style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" alt="Terraform">
+</div>
+
+### 🎨 Frontend Ecosystem
+<div align="center" style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge" alt="Three.js">
+</div>
+
 
 ## 📈 GitHub Analytics
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishBytes&show_icons=true&theme=blueberry&hide=contribs&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AshishBytes&theme=blueberry&date_format=j%20M%5B%20Y%5D" />
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishBytes&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AshishBytes&theme=nightowl&date_format=j%20M%5B%20Y%5D&hide_border=true" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/AshishBytes/HAPPY-bot">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishBytes&theme=blueberry&layout=compact" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishBytes&layout=compact&theme=nightowl&hide_border=true&langs_count=6" />
 </div>
-
 
 ## 🖥️ Status
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
@@ -115,7 +138,7 @@ object Ashish : Developer() {
   </a>
 </div>
 
-<!-- Footer -->
+<!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b3b4f,100:2d2d3a&height=150&section=footer&fontSize=20&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=150&section=footer&fontSize=20&fontColor=fff&animation=scaleIn" />
 </div>
